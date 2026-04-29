@@ -2,13 +2,13 @@
 
 ### Overview — 100% прохождение
 
-![Allure Overview](screenshots/allure-overview.png)
+<img width="1734" height="920" alt="allure-overview" src="https://github.com/user-attachments/assets/93aa5c47-c47e-4dbd-b38f-3b9e5e743a19" />
 
 ---
 
 ### Behaviors — иерархия Epic / Feature / Story
 
-![Allure Behaviors](screenshots/allure-behaviors.png)
+<img width="1734" height="920" alt="allure-behaviors" src="https://github.com/user-attachments/assets/a3636439-5fb9-42b4-b395-cfa5f6c17871" />
 
 ---
 
@@ -16,4 +16,5 @@
 
 Каждый шаг содержит **1 attachment** — скриншот страницы, сделанный в конце шага.
 
-![Allure Suites — Test Steps](screenshots/allure-suites.png)
+<img width="1734" height="920" alt="allure-suites" src="https://github.com/user-attachments/assets/ebbb24a4-8573-4644-b5b3-519b07e056bc" />
+
